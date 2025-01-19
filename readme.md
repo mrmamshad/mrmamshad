@@ -12,6 +12,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mamshad&show_icons=true&locale=en&layout=compact" alt="mamshad" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mamshad&show_icons=true&locale=en" alt="mamshad" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mamshad&" alt="mamshad" /></p>
